@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-📷 Github orginanization for Raffaele Celentano photo gallery <br>
-🗂️ Repository used for nextjs website and backend api.
+📷 Github orginanization for raffaele celentano's photo gallery. <br>
+🗂️ Repository used for nextjs website and asp.net backend api.
