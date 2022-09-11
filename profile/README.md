@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-🙋‍♀️ Raffaele Celentano Photo Gallery <br>
+🙋‍♀️ Github orginanization for Raffaele Celentano photo gallery <br>
 🌈 Repository used for website and backend.
